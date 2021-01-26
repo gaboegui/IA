@@ -1,2 +1,6 @@
 # IA
-My practices belonging to my Master Degree on Artificial Intelligence
+Some practices belonging to my Master Degree on Artificial Intelligence
+
+- A classificaction problem resolved with Convolutional Neuronal Networks
+
+- A WSD (word sense disambiguation) problem using Probabilistic model 
